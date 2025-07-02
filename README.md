@@ -26,9 +26,9 @@ This is a **fully dynamic dashboard** that analyzes restaurant order patterns, m
 
 ### 🧾 Combo Opportunity from Item Affinity
 - Frequently paired items include:
-  - *Burger + Fries*
-  - *Pizza + Coke*
-  - *Coffee + Muffin*
+  - *Edamame + Hamburger*
+  - *French Fries + Korean Beef Bowl*
+  - *Cheeseburger + Edamame*
 - ⚡ Customers often buy these together  
 ➡️ **Recommendation**: Offer them as **combo deals with discounts** to increase order value
 
