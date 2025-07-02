@@ -38,17 +38,11 @@ This is a **fully dynamic dashboard** that analyzes restaurant order patterns, m
 
 Below are the key views from the Metabase dashboard:
 
-### 🔹 1. Rolling Sales Trend
-![Rolling Sales](Images/1.jpg)
 
-### 🔹 2. Daily and Hourly Revenue Distribution
-![Sales Time](Images/2.jpg)
-
-### 🔹 3. Menu Insights – Top Sellers & Revenue Generators
-![Menu Insights](Images/3.jpg)
-
-### 🔹 4. Item Affinity – Frequently Ordered Pairs
-![Affinity Analysis](Images/4.jpg)
+![Image 1](Images/1.JPG)
+![Image 2](Images/2.JPG)
+![Image 3](Images/3.JPG)
+![Image 4](Images/4.JPG)
 
 ---
 
