@@ -46,6 +46,11 @@ Below are the key views from the Metabase dashboard:
 
 ---
 
+## 🖼️ Data Model
+![Data Model](Images/data_model.JPG)
+
+---
+
 ## 📬 Automation Features
 
 - **Automatic 30-minute refresh** using Metabase scheduling
