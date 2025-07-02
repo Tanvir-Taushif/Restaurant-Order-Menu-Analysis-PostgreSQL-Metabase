@@ -70,7 +70,7 @@ Below are the key views from the Metabase dashboard:
 
 **Tanvir Taushif**  
 📫 Email: tanvirpial9961@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/tanvir-taushif/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tanvir-taushif-751044204/)  
 🌐 [GitHub Portfolio](https://github.com/Tanvir-Taushif)
 
 ---
